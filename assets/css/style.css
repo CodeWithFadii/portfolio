@@ -130,7 +130,7 @@ html {
 
 body {
   background-color: var(--eerie-black);
-  color: var(--roman-silver);
+  color: rgb(211, 208, 208);
   font-size: 1.6rem;
   line-height: 1.75;
   overflow: hidden;
@@ -774,6 +774,7 @@ body.nav-active {
 \*-----------------------------------*/
 
 .footer {
+  margin-top: 100px;
   background-color: var(--raisin-black);
   padding-block: 76px;
 }
