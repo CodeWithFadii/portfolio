@@ -14,6 +14,8 @@ const addEventOnElements = function (elements, eventType, callback) {
 
 
 
+
+
 /**
  * PRELOADER
  */
